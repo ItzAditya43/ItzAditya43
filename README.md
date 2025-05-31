@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">A developer interested in Data Science & Machine Learning from India</h3>
+<h3 align="center">A developer interested in Machine Learning & Gen AI from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Models (from scratch).<br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about anything.<br>⚡ Fun fact: Earth is not flat.<br>📫 How to reach me **aditya20pnd@gmail.com**
