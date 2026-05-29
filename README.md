@@ -10,22 +10,22 @@
 
 <p align="center">
   <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
-    <img height="48" width="48" src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img height="48" width="48" src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img height="48" width="48" src="https://img.shields.io/badge/-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
-    <img height="48" width="48" src="https://img.shields.io/badge/-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>&nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/YOUR_CODECHEF" target="_blank">
-    <img height="48" width="48" src="https://img.shields.io/badge/-B92B27?style=flat-square&logo=codechef&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img height="48" width="48" src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Mail" height="40" width="40" />
   </a>
 </p>
 
