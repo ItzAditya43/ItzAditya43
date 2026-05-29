@@ -3,7 +3,7 @@
 # Aditya Pandey
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Developer;Full+Stack+Builder;Computer+Vision+Enthusiast;Exploring+Blockchain+and+Agentic+AI;Build.+Break.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Developer;Full+Stack+Builder;Exploring+Blockchain+and+Agentic+AI;Build.+Break.+Learn.+Repeat." />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode" />
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/adityapnd10" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" height="40" width="40" alt="CodeChef" />
+    <img src="https://cdn.simpleicons.org/codechef/white" height="40" width="40" alt="CodeChef" />
   </a>&nbsp;&nbsp;
   <a href="mailto:aditya20pnd@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
