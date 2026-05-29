@@ -9,23 +9,26 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" />
+  <a href="https://x.com/adityapnd10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" alt="X" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/adityapandey10/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
+  <a href="https://github.com/ItzAditya43" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  <a href="https://www.kaggle.com/adipandey777" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" alt="Kaggle" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" />
+  <a href="https://leetcode.com/u/Adi0026/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Mail" height="40" width="40" />
+  <a href="https://www.codechef.com/users/adityapnd10" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" height="40" width="40" alt="CodeChef" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aditya20pnd@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
   </a>
 </p>
 
