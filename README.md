@@ -6,30 +6,28 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Developer;Full+Stack+Builder;Computer+Vision+Enthusiast;Exploring+Blockchain+and+Agentic+AI;Build.+Break.+Learn.+Repeat." />
 </p>
 
-<h3>Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://twitter.com/YOUR_X_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="X" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=kaggle" width="45" height="45" alt="Kaggle" />
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45" height="45" alt="LeetCode" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/YOUR_CODECHEF" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=codechef" width="45" height="45" alt="CodeChef" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Mail" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ItzAditya43&label=Profile+Views&color=3b82f6&style=flat" alt="profile views" />
 
 </div>
 
