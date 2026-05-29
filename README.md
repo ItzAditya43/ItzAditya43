@@ -10,22 +10,22 @@
 
 <p align="center">
   <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="X" />
-  </a>&nbsp;&nbsp;
+    <img height="48" width="48" src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+    <img height="48" width="48" src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" width="45" height="45" alt="Kaggle" />
-  </a>&nbsp;&nbsp;
+    <img height="48" width="48" src="https://img.shields.io/badge/-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>&nbsp;
   <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45" height="45" alt="LeetCode" />
-  </a>&nbsp;&nbsp;
+    <img height="48" width="48" src="https://img.shields.io/badge/-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>&nbsp;
   <a href="https://www.codechef.com/users/YOUR_CODECHEF" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" width="45" height="45" alt="CodeChef" />
-  </a>&nbsp;&nbsp;
+    <img height="48" width="48" src="https://img.shields.io/badge/-B92B27?style=flat-square&logo=codechef&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Mail" />
+    <img height="48" width="48" src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
