@@ -3,42 +3,54 @@
 # Aditya Pandey
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Developer;Full+Stack+Builder;Exploring+Blockchain+and+Agentic+AI;Build.+Break.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Builder;Exploring+Blockchain+%26+Agentic+AI;Build.+Break.+Learn.+Repeat." />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+### Connect with me
 
 <p align="center">
-  <a href="https://x.com/adityapnd10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" alt="X" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adityapandey10/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/ItzAditya43" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/adipandey777" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" alt="Kaggle" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Adi0026/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="LeetCode" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/adityapnd10" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef/white" height="40" width="40" alt="CodeChef" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:aditya20pnd@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail" />
-  </a>
+<a href="https://x.com/adityapnd10">
+<img src="https://skillicons.dev/icons?i=twitter" height="42"/>
+</a>
+&nbsp;
+
+<a href="https://www.linkedin.com/in/adityapandey10/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+&nbsp;
+
+<a href="https://github.com/ItzAditya43">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
+&nbsp;
+
+<a href="https://www.kaggle.com/adipandey777">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="42"/>
+</a>
+&nbsp;
+
+<a href="https://leetcode.com/u/Adi0026/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
+</a>
+&nbsp;
+
+<a href="https://www.codechef.com/users/adityapnd10">
+<img src="https://cdn.simpleicons.org/codechef/white" height="42"/>
+</a>
+&nbsp;
+
+<a href="mailto:aditya20pnd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=3&section=header" width="100%"/>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```python
 class AdityaPandey:
@@ -65,66 +77,97 @@ class AdityaPandey:
 
     def ask_me_about(self):
         return [
-            "AI Agents & LLM pipelines",
-            "REST APIs & backend architecture",
-            "Smart contracts & Web3",
-            "Computer vision projects"
+            "LLMs & AI Agents",
+            "Backend Engineering",
+            "Computer Vision",
+            "Blockchain"
         ]
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+# ⚡ Tech Arsenal
 
-**🌐 Full Stack**
+### 🌐 Full Stack
+
 ```text
 React • Next.js • Node.js • Express • FastAPI • MongoDB • PostgreSQL
 ```
 
-**🐍 Python Ecosystem**
+### 🐍 Python
+
 ```text
-NumPy • Pandas • Matplotlib • Scikit-Learn • OpenCV • Flask
+NumPy • Pandas • Matplotlib • OpenCV • Scikit-Learn • Flask
 ```
 
-**🤖 AI / Machine Learning**
+### 🤖 AI / ML
+
 ```text
-Scikit-Learn • Transformers • LangChain • RAG • LLMs • Agentic AI
-Computer Vision • YOLO • Diffusion Models • Prompt Engineering
+LLMs • LangChain • RAG • Transformers • YOLO • Diffusion Models
+Prompt Engineering • Agentic AI • Computer Vision
 ```
 
-**⛓️ Blockchain**
+### ⛓ Blockchain
+
 ```text
-Smart Contracts • Web3.js • Solidity • DeFi • Ethereum Ecosystem
+Solidity • Web3.js • Ethereum • Smart Contracts • DeFi
 ```
 
-**🛠️ Tools & DevOps**
+### 🛠 Tools
+
 ```text
-Git • Docker • Linux • VS Code • Jupyter • Postman • GitHub Actions
+Git • Docker • Linux • VS Code • Postman • GitHub Actions
 ```
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Statistics
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItzAditya43&theme=github-dark&hide_border=true&area=true)](https://github.com/ItzAditya43)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItzAditya43&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAditya43&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ItzAditya43&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🎯 Current Mission
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzAditya43&theme=github-dark&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Mission
 
 - 🧠 Building AI-powered applications and autonomous agents
-- 📚 Deepening knowledge in advanced ML and deep learning
-- ⛓️ Exploring blockchain and decentralized application development
-- 🌍 Contributing to open source — one PR at a time
-- 🔭 Researching multi-modal AI and computer vision pipelines
+- 🤖 Learning advanced Machine Learning & Deep Learning
+- ⛓ Exploring Blockchain and Web3
+- 🌍 Contributing to Open Source
+- 🔭 Researching Multi-modal AI and Computer Vision
 
 ---
 
 <div align="center">
 
+## 💡 Philosophy
+
+> **Build. Break. Learn. Repeat.**
+
 *"The people who are crazy enough to think they can change the world are the ones who do."*
 
-**— Let's build something that matters.**
+— Steve Jobs
 
 </div>
 
