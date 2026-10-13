@@ -100,7 +100,7 @@ I build local-first AI tools and Linux desktop apps. Most of it runs on your own
 <div align="center">
 
 > *"Let's start from here. From zero."*
-> — Subaru Natsuki, Re:Zero
+> — Rem, Re:Zero
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" alt=""/>
 
