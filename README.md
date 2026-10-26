@@ -28,43 +28,28 @@ I build local-first AI tools and Linux desktop apps. Most of it runs on your own
 
 ---
 
-## 🔩 From scratch, not from a tutorial
+## stuff i've built
 
-- 🧠 **A language model**: tokenizer, transformer, training loop and KV-cache inference, trained on a single 4GB GPU
-- 🛰️ **A network bypass layer**: per-app WireGuard, encrypted DNS and TLS-record fragmentation, in Rust
-- 🤖 **A coding agent**: runs entirely on local models, nothing leaves the machine
-- 🎛️ **A Linux control plane**: processes, cgroups, systemd, Docker and GPU behind one app
-- 🔮 **A world model**: learns physics with no reward signal and plans by imagining futures
+mostly things i wanted to exist, so i just made them. almost all of it runs locally.
 
----
+- **[Zenith](https://github.com/ItzAditya43/Zenith)** ([live](https://itzaditya43.github.io/Zenith/)): self-hosted AI workspace on top of Ollama. chat, coding agent, deep research, memory, image gen, voice. nothing leaves your machine. *(Python, FastAPI, React, Tauri)*
+- **[Zenith-AI](https://github.com/ItzAditya43/Zenith-AI)**: a small LLM I wrote from the ground up. tokenizer, transformer, training loop, inference, all trained on a 4GB GPU. *(Python, PyTorch)*
+- **[Trace](https://github.com/ItzAditya43/Trace)**: a Linux monitor that went a bit too far. live stats, "why is my machine slow" diagnosis, plus control over processes, cgroups, systemd, Docker and GPU. *(Rust, Tauri, React)*
+- **[Cortex](https://github.com/ItzAditya43/Cortex)**: coding agent for VS Code that runs on local Ollama models. *(JavaScript)*
+- **[MyKey](https://github.com/ItzAditya43/MyKey)**: an Android keyboard that never sends what you type anywhere. glide typing, 5 languages, and a tiny 17.8M-param model running on the phone for next-word predictions. it doesn't even have an app icon. *(Kotlin, ONNX Runtime)*
+- **[AI-Devrel-Manager](https://github.com/ItzAditya43/AI-Devrel-Manager)** ([live](https://ai-devrel-manager.streamlit.app/)): point it at any public GitHub repo and it sorts the issues with a small LLM, then suggests what a DevRel person should actually do about them. *(Python, Streamlit)*
 
-## 🏆 Featured Projects
+## what i use
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Zenith](https://github.com/ItzAditya43/Zenith)** · [live](https://itzaditya43.github.io/Zenith/) | Self-hosted AI workspace on your own Ollama models: chat, a coding agent, deep research, long-term memory, image gen and voice. Nothing leaves your machine. | Python · FastAPI · React · Tauri |
-| **[Zenith-AI](https://github.com/ItzAditya43/Zenith-AI)** | A small language model built from scratch: BPE tokenizer, RoPE/GQA transformer, training loop and KV-cache inference, trained end to end on a single 4GB GPU. | Python · PyTorch |
-| **[Detour](https://github.com/ItzAditya43/Detour)** | Per-app WireGuard tunneling, system-wide encrypted DNS and TLS-record fragmentation to get past SNI-based filtering. | Rust · Tauri |
-| **[Trace](https://github.com/ItzAditya43/Trace)** | Linux machine observatory and control center: live stats, history, slowness diagnosis, plus control over processes, cgroups, systemd, Docker and GPU. | Rust · Tauri · React |
-| **[Cortex](https://github.com/ItzAditya43/Cortex)** | A private coding agent for VS Code that runs entirely on local Ollama models. | JavaScript |
-| **[DayZero](https://github.com/ItzAditya43/DayZero)** · [live](https://dayzero-cuy1.onrender.com) | Climate stress-testing engine that works out the month a real neighbourhood runs out of water, then finds the cheapest plan to buy those months back. | Python · FastAPI · React · MapLibre |
-| **[Neural World Model](https://github.com/ItzAditya43/Neural_World_Model)** | A world model that learns physics from a bouncing-ball sandbox and plans by imagining branching futures before it acts. | PyTorch |
+- **Rust + Tauri** when I want something fast and native
+- **Python** (PyTorch, OpenCV, scikit-learn) for ML stuff
+- **Ollama, LangChain, RAG, MCP** for LLM apps and agents
+- **FastAPI, Node, Postgres, Mongo** for backends
+- **TypeScript, React, Next.js, Three.js** for the frontend
+- **Docker, GitHub Actions, Git** to ship it
+- Arch + [Hyprland](https://github.com/ItzAditya43/Hyprland-Setup), btw
 
----
-
-## 🧰 What I reach for
-
-| When the job is | I reach for |
-| --- | --- |
-| Native, fast, close to the OS | **Rust** · Tauri |
-| Models, training, experiments | **Python** · PyTorch · OpenCV · scikit-learn |
-| LLM apps and agents | Ollama · LangChain · RAG · MCP |
-| APIs and backends | FastAPI · Node.js · PostgreSQL · MongoDB |
-| Interfaces | **TypeScript** · React · Next.js · Three.js |
-| Shipping it | Docker · GitHub Actions · Git |
-| Where it all runs | Arch Linux · [Hyprland](https://github.com/ItzAditya43/Hyprland-Setup) |
-
-*Still in training: Solidity · Web3 · Distributed Systems · System Design*
+currently learning: Solidity, Web3, distributed systems, system design
 
 ---
 
