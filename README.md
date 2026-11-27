@@ -4,70 +4,73 @@
 
 # Aditya Pandey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&lines=Accidental+programmer+by+day%2C+coffee+enjoyer+by+night;Building+local-first+AI+tools+on+Linux;Trained+an+LLM+from+scratch+on+a+4GB+GPU;Rust+%2B+Python+%2B+TypeScript" alt="Typing banner"/>
+**I build local-first AI tools and Linux desktop apps.**
+No cloud, no API keys, no telemetry. It runs on your own machine.
 
-I build local-first AI tools and Linux desktop apps. Most of it runs on your own machine, with no cloud and no API keys.
-
-**[🏯 Walk through my 3D portfolio](https://itzaditya43.github.io/portfolio/)** · a floating Japanese village in Three.js with day/night, seasons and shrines
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=640&lines=Trained+an+LLM+from+scratch+on+a+4GB+GPU;Local+AI+agents+on+consumer+hardware;Rust+%2B+Python+%2B+TypeScript;Arch+%2B+Hyprland%2C+btw" alt="Typing banner"/>
 
 <p>
-<a href="https://x.com/adityapnd10"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/adityapandey10/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://www.kaggle.com/adipandey777"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="Kaggle"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/Adi0026/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" alt="LeetCode"/></a>
-&nbsp;
-<a href="https://www.codechef.com/users/adityapnd10"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codechef/white"/><img src="https://cdn.simpleicons.org/codechef/5B4638" height="40" alt="CodeChef"/></picture></a>
-&nbsp;
-<a href="mailto:aditya20pnd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
+<a href="https://itzaditya43.github.io/portfolio/"><b>🏯 3D portfolio</b></a> ·
+<a href="https://x.com/adityapnd10">X</a> ·
+<a href="https://www.linkedin.com/in/adityapandey10/">LinkedIn</a> ·
+<a href="https://www.kaggle.com/adipandey777">Kaggle</a> ·
+<a href="https://leetcode.com/u/Adi0026/">LeetCode</a> ·
+<a href="https://www.codechef.com/users/adityapnd10">CodeChef</a> ·
+<a href="mailto:aditya20pnd@gmail.com">Email</a>
 </p>
 
 </div>
 
 ---
 
-## stuff i've built
+## 🧠 Local AI
 
-mostly things i wanted to exist, so i just made them. almost all of it runs locally.
+| Project | What it is | Stack |
+|---|---|---|
+| **[Zenith](https://github.com/ItzAditya43/Zenith)** · [site](https://itzaditya43.github.io/Zenith/) | Self-hosted AI workspace on Ollama: chat, coding agent, deep research, long-term memory, image gen, voice. Nothing leaves your machine. | Python, FastAPI, React, Tauri |
+| **[Zenith-llm](https://github.com/ItzAditya43/Zenith-llm)** | A small language model written from scratch: BPE tokenizer, RoPE/GQA transformer, training loop, KV-cache inference. Trained on a single 4GB GPU. | Python, PyTorch |
+| **[Cortex](https://github.com/ItzAditya43/Cortex)** | VS Code coding agent, like Cline but on your own Ollama models. | JavaScript |
+| **[Neural_World_Model](https://github.com/ItzAditya43/Neural_World_Model)** | A world model that learns environment dynamics with no reward signal, then plans by imagining branching futures. | Python, PyTorch |
 
-- **[Zenith](https://github.com/ItzAditya43/Zenith)** ([live](https://itzaditya43.github.io/Zenith/)): self-hosted AI workspace on top of Ollama. chat, coding agent, deep research, memory, image gen, voice. nothing leaves your machine. *(Python, FastAPI, React, Tauri)*
-- **[Zenith-AI](https://github.com/ItzAditya43/Zenith-AI)**: a small LLM I wrote from the ground up. tokenizer, transformer, training loop, inference, all trained on a 4GB GPU. *(Python, PyTorch)*
-- **[Trace](https://github.com/ItzAditya43/Trace)**: a Linux monitor that went a bit too far. live stats, "why is my machine slow" diagnosis, plus control over processes, cgroups, systemd, Docker and GPU. *(Rust, Tauri, React)*
-- **[Cortex](https://github.com/ItzAditya43/Cortex)**: coding agent for VS Code that runs on local Ollama models. *(JavaScript)*
-- **[MyKey](https://github.com/ItzAditya43/MyKey)**: an Android keyboard that never sends what you type anywhere. glide typing, 5 languages, and a tiny 17.8M-param model running on the phone for next-word predictions. it doesn't even have an app icon. *(Kotlin, ONNX Runtime)*
-- **[AI-Devrel-Manager](https://github.com/ItzAditya43/AI-Devrel-Manager)** ([live](https://ai-devrel-manager.streamlit.app/)): point it at any public GitHub repo and it sorts the issues with a small LLM, then suggests what a DevRel person should actually do about them. *(Python, Streamlit)*
+## 🐧 Linux and desktop
 
-## what i use
+| Project | What it is | Stack |
+|---|---|---|
+| **[Trace](https://github.com/ItzAditya43/Trace)** | Linux monitor that answers "why is my machine slow?", then lets you act: processes, cgroups, systemd, Docker, GPU. | Rust, Tauri, React |
+| **[Orbit](https://github.com/ItzAditya43/Orbit)** | Local-first productivity app: tasks, goals, habits, focus timer, time tracking and an AI operator. | TypeScript |
+| **[LGME-CLI](https://github.com/ItzAditya43/LGME-CLI)** · [site](https://itzaditya43.github.io/LGME-CLI/) | Linux Gaming Made Easy: sets up your PC, adds your games and runs them with Proton or Wine. | Python |
+| **[MusicGrab](https://github.com/ItzAditya43/MusicGrab)** | Local music downloader, library and web player for YouTube and Spotify. | Python, FastAPI |
 
-- **Rust + Tauri** when I want something fast and native
-- **Python** (PyTorch, OpenCV, scikit-learn) for ML stuff
-- **Ollama, LangChain, RAG, MCP** for LLM apps and agents
-- **FastAPI, Node, Postgres, Mongo** for backends
-- **TypeScript, React, Next.js, Three.js** for the frontend
-- **Docker, GitHub Actions, Git** to ship it
-- Arch + [Hyprland](https://github.com/ItzAditya43/Hyprland-Setup), btw
+## 🌐 Web and mobile
 
-currently learning: Solidity, Web3, distributed systems, system design
+| Project | What it is | Stack |
+|---|---|---|
+| **[SameSecond](https://github.com/ItzAditya43/SameSecond)** · [live](https://samesecond.itzaditya43.workers.dev) | Lag-free watch parties: everyone plays their own video and it keeps you on the same second. Browser extension for Netflix and Crunchyroll. Runs free on Cloudflare. | JavaScript, WebRTC, Workers |
+| **[DayZero](https://github.com/ItzAditya43/DayZero)** · [live](https://dayzero-cuy1.onrender.com) | Climate stress-test that finds the month a real neighbourhood runs out of water, then the cheapest plan to buy those months back. | Python, FastAPI, React |
+| **[kahan-chalein](https://github.com/ItzAditya43/kahan-chalein)** · [live](https://itzaditya43.github.io/kahan-chalein/) | Honest weekend trips from 8 Indian cities, with live weather and swipe-with-friends. | JavaScript |
+| **[MonoWeather](https://github.com/ItzAditya43/MonoWeather)** | Quiet Android weather app: animated skies, true-black theme, 8 widgets, 1.4 MB, no location needed. | Kotlin, Compose |
+| **[SZA-Game](https://github.com/ItzAditya43/SZA-Game)** | Zombie-outbreak survival strategy sim: lead five survivors through the first 30 days. | Godot 4 |
 
----
-
-## 🎯 Current Arc
-
-- 🧠 Shipping local-first AI agents that run on consumer hardware
-- 🦀 Going deeper on Rust for systems and desktop tooling
-- 🔭 Experimenting with world models and multi-modal AI
-- 🌍 Looking for open source projects to contribute to
+<sub>More on my [repositories page](https://github.com/ItzAditya43?tab=repositories), plus a few private ones.</sub>
 
 ---
 
-## 📊 Season Stats
+## Stack
 
-<p align="center">
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItzAditya43&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItzAditya43&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=rust,python,ts,react,nextjs,threejs,fastapi,nodejs,postgres,mongodb,docker,githubactions,git,kotlin,godot,arch" alt="Tech stack"/>
 </p>
+
+**AI:** PyTorch, Ollama, LangChain, RAG, MCP · **Desktop:** Tauri · **Setup:** Arch + [Hyprland](https://github.com/ItzAditya43/Hyprland-Setup)
+
+## Now
+
+- 🧠 Shipping local-first agents that run on consumer hardware
+- 🦀 Going deeper on Rust for systems and desktop tooling
+- 📚 Learning Solidity, distributed systems, system design
+- 🌍 Looking for open source projects to contribute to, especially local AI, Rust and Linux tooling
+
+---
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ItzAditya43&theme=github-dark-blue&hide_border=true" alt="Contribution streak"/>
@@ -80,12 +83,9 @@ currently learning: Solidity, Web3, distributed systems, system design
 </picture>
 </p>
 
----
-
 <div align="center">
 
-> *"Let's start from here. From zero."*
-> — Rem, Re:Zero
+> *"Let's start from here. From zero."* — Rem, Re:Zero
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%" alt=""/>
 
