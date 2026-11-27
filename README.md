@@ -36,11 +36,10 @@ mostly things i wanted to exist, so i just made them. almost all of it runs loca
 - **[Zenith-llm](https://github.com/ItzAditya43/Zenith-llm)**: a small LLM I wrote from the ground up. tokenizer, transformer, training loop, inference, all trained on a 4GB GPU. *(Python, PyTorch)*
 - **[Trace](https://github.com/ItzAditya43/Trace)**: a Linux monitor that went a bit too far. live stats, "why is my machine slow" diagnosis, plus control over processes, cgroups, systemd, Docker and GPU. *(Rust, Tauri, React)*
 - **[Cortex](https://github.com/ItzAditya43/Cortex)**: coding agent for VS Code that runs on local Ollama models. *(JavaScript)*
-- **MyKey**: an Android keyboard that never sends what you type anywhere. glide typing, 5 languages, and a tiny 17.8M-param model running on the phone for next-word predictions. it doesn't even have an app icon. *(Kotlin, ONNX Runtime)*
 - **[AI-Devrel-Manager](https://github.com/ItzAditya43/AI-Devrel-Manager)** ([live](https://ai-devrel-manager.streamlit.app/)): point it at any public GitHub repo and it sorts the issues with a small LLM, then suggests what a DevRel person should actually do about them. *(Python, Streamlit)*
-- **[SameSecond](https://github.com/ItzAditya43/SameSecond)** ([live](https://samesecond.itzaditya43.workers.dev)): lag-free watch parties. everyone plays their own video and it keeps you on the same second. browser extension for Netflix and Crunchyroll, runs free on Cloudflare. *(JavaScript, WebRTC, Workers)*
-- **[DayZero](https://github.com/ItzAditya43/DayZero)** ([live](https://dayzero-cuy1.onrender.com)): climate stress-test that finds the month a real neighbourhood runs out of water, then the cheapest plan to buy those months back. *(Python, FastAPI, React)*
 - **[Orbit](https://github.com/ItzAditya43/Orbit)**: local-first productivity app with tasks, goals, habits, focus timer and an AI operator. *(TypeScript)*
+- **[LGME-CLI](https://github.com/ItzAditya43/LGME-CLI)** ([site](https://itzaditya43.github.io/LGME-CLI/)): Linux Gaming Made Easy. sets up your PC, adds your games and runs them with Proton or Wine. *(Python)*
+- **[SZA-Game](https://github.com/ItzAditya43/SZA-Game)**: zombie-outbreak survival strategy sim in Godot 4. lead five survivors through the first 30 days. *(GDScript)*
 
 ## what i use
 
